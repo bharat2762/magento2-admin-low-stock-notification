@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="lowstocknotification_low_stock_notification_email_email_template"
+              label="Low Stock Single Notification" file="low_stock_single_notification.html"
+              type="html" module="Bharat_LowStockNotification" area="frontend"/>
+
+</config>

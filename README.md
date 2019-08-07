@@ -34,5 +34,6 @@ php bin/magento module:disable Bharat_LowStockNotification
 <img src="https://raw.githubusercontent.com/bharat2762/screenshots/master/magento2-low-stock-notification/admin-low-stock-notification-free-output.jpg" alt="admin_Screenshot" border="0"/>
 
 # For Magento 2.3.x - Download premium version of Admin Low Stock Notification extension
-# <a href="https://marketplace.magento.com/bharat-module-low-stock-notification.html">Download Link</a>
+## <a href="https://marketplace.magento.com/bharat-module-low-stock-notification.html">Download Link for 2.3.x</a>
+## <a href="mailto:bharatcpatel2762@gmail.com">Contact me for 2.2.x</a>
   

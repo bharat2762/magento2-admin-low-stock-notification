@@ -1,6 +1,6 @@
-# For Magento 2.3.x - Download premium version of Admin Low Stock Notification extension
-## <a href="https://marketplace.magento.com/magedad-module-low-stock-notification.html">Download Link for 2.3.x</a>
-## <a href="mailto:bharatcpatel2762@gmail.com">Contact me for 2.2.x</a>
+### For Magento 2.3.x - Download premium version of Admin Low Stock Notification extension
+### <a href="https://marketplace.magento.com/magedad-module-low-stock-notification.html">Download Link for 2.3.x</a>
+### <a href="mailto:bharatcpatel2762@gmail.com">Contact me for 2.2.x</a>
 
 
 # Magento 2.2.x Admin Low Stock Notification free extension
